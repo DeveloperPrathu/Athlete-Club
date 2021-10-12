@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Athlete-Club/static/css/main.c5bca628.chunk.css",
+    "main.js": "/Athlete-Club/static/js/main.04570c50.chunk.js",
+    "main.js.map": "/Athlete-Club/static/js/main.04570c50.chunk.js.map",
+    "runtime-main.js": "/Athlete-Club/static/js/runtime-main.f7433c81.js",
+    "runtime-main.js.map": "/Athlete-Club/static/js/runtime-main.f7433c81.js.map",
+    "static/js/2.1b5cdcbd.chunk.js": "/Athlete-Club/static/js/2.1b5cdcbd.chunk.js",
+    "static/js/2.1b5cdcbd.chunk.js.map": "/Athlete-Club/static/js/2.1b5cdcbd.chunk.js.map",
+    "static/js/3.6588b381.chunk.js": "/Athlete-Club/static/js/3.6588b381.chunk.js",
+    "static/js/3.6588b381.chunk.js.map": "/Athlete-Club/static/js/3.6588b381.chunk.js.map",
+    "index.html": "/Athlete-Club/index.html",
+    "static/css/main.c5bca628.chunk.css.map": "/Athlete-Club/static/css/main.c5bca628.chunk.css.map",
+    "static/js/2.1b5cdcbd.chunk.js.LICENSE.txt": "/Athlete-Club/static/js/2.1b5cdcbd.chunk.js.LICENSE.txt",
+    "static/media/1.47684eb2.png": "/Athlete-Club/static/media/1.47684eb2.png",
+    "static/media/11.d12dc24a.jpg": "/Athlete-Club/static/media/11.d12dc24a.jpg",
+    "static/media/12.3577b67f.jpg": "/Athlete-Club/static/media/12.3577b67f.jpg",
+    "static/media/9.db4111c1.jpg": "/Athlete-Club/static/media/9.db4111c1.jpg",
+    "static/media/g3.7613e5da.mp4": "/Athlete-Club/static/media/g3.7613e5da.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7433c81.js",
+    "static/js/2.1b5cdcbd.chunk.js",
+    "static/css/main.c5bca628.chunk.css",
+    "static/js/main.04570c50.chunk.js"
+  ]
+}
